@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: #252f48;
+  /* background-image: url("https://th.bing.com/th/id/OIP.sp3WDJ6lTkVBnnrVlIFdjQAAAA?pid=ImgDet&rs=1" ) ;
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size:contain; */
+}
+.headingcomp{
+  color: rgb(237, 11, 11);
+}
+.card{
+  margin: 30px;
+  border: solid 2pt white;
+  border-radius: 10px;
+}
+#navimage{
+  width: 40px;
+  height: 40px;
+  border: solid 2pt rgb(3, 3, 3);
+  border-radius: 10px;
+  margin: 5px;
+}
